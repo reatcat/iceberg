@@ -42,6 +42,7 @@ nav:
     - File I/O: fileio.md
     - Javadoc: ../../javadoc/latest/
   - Integrations:
+    - Engine interoperability: engine-interoperability.md
     - Apache Spark:
       - spark-getting-started.md
       - spark-configuration.md
